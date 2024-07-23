@@ -290,17 +290,23 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
-.skills__html {
-  width: 95%;
+.skills__am {
+  width: 100%;
 }
-.skills__css {
-  width: 85%;
+.skills__da {
+  width: 100%;
 }
-.skills__js {
-  width: 65%;
+.skills__dm {
+  width: 100%;
 }
-.skills__ux {
-  width: 85%;
+.skills__cw {
+  width: 100%;
+}
+.skills__pm {
+  width: 100%;
+}
+.skills__fs {
+  width: 100%;
 }
 .skills__img {
   border-radius: 0.5rem;
