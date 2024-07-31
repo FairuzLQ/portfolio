@@ -404,6 +404,8 @@ img {
   right: -20px;
   top: 32px;
   z-index: 1;
+  border-style: solid;
+  border-color: hsl(var(--hue-color), 89%, 60%);
 }
 .right-container img{
   left: -20px;
