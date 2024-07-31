@@ -291,22 +291,28 @@ img {
   z-index: var(--z-back);
 }
 .skills__am {
-  width: 100%;
+  width: 90%;
+}
+.skills_af{
+  width: 85%;
 }
 .skills__da {
-  width: 100%;
+  width: 60%;
 }
 .skills__dm {
-  width: 100%;
+  width: 75%;
 }
 .skills__cw {
-  width: 100%;
+  width: 80%;
 }
 .skills__pm {
-  width: 100%;
+  width: 85%;
 }
 .skills__fs {
-  width: 100%;
+  width: 75%;
+}
+.skills__af {
+  width: 85%;
 }
 .skills__img {
   border-radius: 0.5rem;
