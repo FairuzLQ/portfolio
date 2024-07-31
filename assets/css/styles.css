@@ -607,7 +607,6 @@ img {
     align-items: center;
     text-align: initial;
   }
-  
 }
 @media screen and (min-width: 992px) {
   .bd-grid {
@@ -619,5 +618,16 @@ img {
   }
   .home__img {
     width: 450px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .pdf-container {
+    height: auto; /* Adjust height for smaller screens */
+    flex-direction: column; /* Stack elements vertically */
+  }
+  
+  .pdf {
+    width: 100%; /* Adjust iframe width to be responsive */
+    height: 50vh; /* Adjust iframe height to be responsive */
   }
 }
