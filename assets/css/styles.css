@@ -505,9 +505,6 @@ img {
   font-size: 2rem;
   margin-bottom: var(--mb-4);
 }
-.footer__social {
-  margin-bottom: var(--mb-4);
-}
 .footer__icon {
   font-size: 1.5rem;
   color: #fff;
